@@ -4,6 +4,11 @@ Esse repositório contém código referente ao projeto da disciplina PLP (Paradi
 
 [Link para especificação](https://docs.google.com/document/d/1bTYYbjt7bS3BEdiF7au8qbUS0c-qXBfyuY_X8Ibq2EU/edit?usp=sharing)
 
+
+## Instalação
+Antes de tudo, se faz necessária a instalação do único pré requisito, o [SWI-Prolog](https://www.swi-prolog.org/download/stable), que é basicamente uma implementação gratuita de Prolog.
+
+
 ## Execução
 
 Para execução do jogo, você executa o comando a seguir.
